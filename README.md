@@ -8,3 +8,8 @@
 有任何问题欢迎你给我提 issue（issues 页有 [惊喜](https://github.com/SharingSource/LogicStack-LeetCode/issues/5)） 🤣
 
 ![宫水三叶的刷题日记](https://oscimg.oschina.net/oscnet/up-19688dc1af05cf8bdea43b2a863038ab9e5.png)
+
+![宫水三叶的刷题日记](https://github.com/renshikun-ByteDance/Optimus-LeetCode/blob/main/markdown.png)
+
+
+![宫水三叶的刷题日记](markdown.png)
